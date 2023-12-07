@@ -1,0 +1,293 @@
+[
+  {
+    "id": 1,
+    "name": "Kathmandu Durbar Square",
+    "address": " Kathmandu, Nepal",
+    "latitude": "27.704273793186072",
+    "longitude": "85.30773845212016",
+    "description": " Kathmandu Durbar Square, or Basantapur Durbar Kshetra in Nepal Bhasa, is a captivating historical and cultural site nestled in the heart of Kathmandu, Nepal. Recognized as one of the UNESCO World Heritage Sites, its origins trace back to the 3rd century, evolving over time with significant contributions from various dynasties. The outer complex showcases 16th-century temples, adorned with intricate carvings characteristic of Newar architecture, a testament to the artistic brilliance of the Malla kings. Surrounding the central square are palace complexes built during the Malla and Shah periods, with the notable Nautalle Durbar standing tall—a nine-story palace erected by Prithvi Narayan Shah to commemorate the Unification of Nepal. At the southern edge lies Kumari Chouk, a three-story temple that serves as the residence of the Kumari, a young girl revered as the living embodiment of the Hindu Goddess Durga. Beyond its architectural marvels, Kathmandu Durbar Square embodies the cultural spirit of Nepal, providing a living connection to the nation's rich heritage. This UNESCO site stands as a timeless repository, inviting visitors to explore the layers of history, art, and spirituality woven into its intricate tapestry.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Basantapurpalace.JPG/375px-Basantapurpalace.JPG",
+    "title": "durbar square"
+  },
+  {
+    "id": 2,
+    "name": "Bhaktapur Durbar Square",
+    "address": "Bhaktapur, Nepal",
+    "latitude": "27.67208302872934",
+    "longitude": "85.42811304331441",
+    "description": "Bhaktapur Durbar Square, situated in Bhaktapur, Nepal, stands as a testament to a bygone era, having served as the royal palace complex for the Malla kings of Nepal from the 14th to the 15th century and later for the kings of the Kingdom of Bhaktapur until its conquest in 1769. Designated as a UNESCO World Heritage Site, this historic square is a collaborative effort between the Archaeological Department of Nepal and Bhaktapur Municipality, undergoing extensive restoration due to damages inflicted by the earthquakes of 1934 and 2015.In its heyday, Bhaktapur Durbar Square was renowned as the grandest among the three Malla palace squares in Kathmandu, Patan, and Bhaktapur. However, the ravages of time and seismic activities have led to the loss of many structures that once adorned the square. The aftermath of earthquakes has been particularly impactful, resulting in the destruction of numerous buildings and courtyards, diminishing the square's architectural richness. From its original count of 99 courtyards during its zenith, a mere 15 courtyards have withstood the test of time and natural disasters.Despite the challenges, Bhaktapur Durbar Square remains a poignant symbol of Nepal's royal history and cultural heritage. The ongoing restoration efforts aim not only to resurrect the physical structures but also to preserve the intangible legacy that echoes through the cobbled pathways and remnants of ancient grandeur. As visitors explore the square, they witness a landscape where history converges with resilience, and where the whispers of a regal past persist amidst the ongoing narrative of preservation and revival.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bhaktapurs-Durbar-Square-before-the-1932-earthquake.jpg/450px-Bhaktapurs-Durbar-Square-before-the-1932-earthquake.jpg",
+    "title": "durbar square"
+  },
+  {
+    "id": 3,
+    "name": "Pathan Durbar Square",
+    "address": "Patan,  Nepal",
+    "latitude": "27.672722192532188",
+    "longitude": "85.3253303432145",
+    "description": "Nestled at the heart of Lalitpur in Nepal, Patan Durbar Square stands as an emblem of cultural richness and historical significance. As one of the three UNESCO World Heritage Sites in the Kathmandu Valley, this square is a testament to the architectural prowess of the Newar people. Central to its allure is the medieval royal palace, once the residence of the Malla Kings of Lalitpur.The square itself is a marvel of Newar architecture, with its floor adorned in red bricks, creating a striking visual tapestry. Temples and statues dot the landscape, with the main temples aligned opposite the western face of the palace. Their entrances face east, a symbolic orientation towards the regal seat. Alongside these temples, a bell stands in alignment, resonating with the historical echoes of this sacred space. Patan Durbar Square not only boasts the grandeur of temples but also embraces the essence of old Newari residential houses, contributing to its living heritage.With 136 'bahals' (courtyards) and 55 major temples, Patan Durbar Square is a center of both Hinduism and Buddhism. Each courtyard and temple encapsulates a unique facet of the rich religious and cultural tapestry that defines the square. It serves as a vibrant testament to the harmonious coexistence of these two ancient religions.The devastating earthquake in April 2015 left an indelible mark on the square, causing substantial damage. However, amidst the ruins, the spirit of Patan Durbar Square endures, as restoration efforts work towards reinstating its former glory. Visitors today witness not just the remnants of a historical site but a resilient testament to the enduring legacy of Newar craftsmanship and cultural heritage.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Patan_Durbar_Square_entrance_2022.jpg/402px-Patan_Durbar_Square_entrance_2022.jpg",
+    "title": "durbar square"
+  },
+  {
+    "id": 4,
+    "name": "Kopan Monastery",
+    "address": "Ward 11, Budhanilkantha 44600",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipPOhWMv2kqjZ_JjL5nS_9G6x8aEltlMyNn64nUL=s1360-w1360-h1020",
+    "latitude": " 27.742676586811932",
+    "longitude": "85.36491282521146",
+    "description": "Kopan Monastery, situated north of Boudhanath in the Kathmandu Valley, is a Tibetan Mahayana Buddhist monastery under Lama Zopa Rinpoche's guidance. Home to 360 monks, it emphasizes the teachings of Buddha Shakyamuni and Lama Tsong Khapa. Visitors worldwide attend courses in this serene setting dedicated to infinite wisdom and compassion. Affiliated with the Foundation for the Preservation of the Mahayana Tradition (FPMT), Kopan follows FPMT's Ethical Policy and has its 'Protection from Abuse Policy.' Governed independently, it contributes to the global transmission of Mahayana Buddhist values through education and community service.",
+    "title": "monastery"
+  },
+  {
+    "id": 5,
+    "name": "Tharlam Monastery",
+    "address": "Kathmandu 44602",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMm_JFZqDg-KoE6TI848VGpufWSs0MOgmeXnuU1=s1360-w1360-h1020",
+    "latitude": "  27.723135935034414",
+    "longitude": "85.36455077062912",
+    "description": "Founded in 1436 by Ga Rabjampa Kunga Yeshe, Tharlam Monastery, also recognized as Tarlam Sabzang Namgyaling, tanglong si, and Śrī Tarlam Ganden Sabzang Namgyel Ling, was a significant Tibetan Buddhist institution situated in Kham, Eastern Tibet. Tragically, in 1959, the monastery fell victim to destruction at the hands of Chinese communists. Nevertheless, the spirit of Tharlam endured, and in 1981, Dezhung Rinpoche led efforts to rebuild the monastery in Kathmandu, Nepal. A noteworthy development followed with the construction of 40 rooms specifically designated for meditation and retreat purposes. This resilient institution stands as a poignant symbol of Tibetan Buddhist heritage, transcending the challenges imposed by historical adversities.",
+    "title": "monastery"
+  },
+  {
+    "id": 6,
+    "name": "Thrangu Tashi Yangtse Monastery or Namo Buddha Monastery ",
+    "address": "HHCM+F2R, Namobuddha Rd, Simalchaur Syampati 45200",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipPcVrN7Rsn-lvp7db3PpwkjEroov69hXGkoeGwn=s1360-w1360-h1020",
+    "latitude": "  27.571237117729247",
+    "longitude": " 85.58251612944278",
+    "description": "The Thrangu Tashi Yangtse Monastery, also known as Namo Buddha Monastery, stands 40 km southeast of Kathmandu, Nepal, founded by V.V. Khenchen Thrangu Rinpoche in 1978. With over 250 monks, it is a hub of spirituality and tourism. Celebrating festivals like Kartik Purnima and Buddha Jayanti, the monastery holds cultural significance. Legend has it that 6000 years ago, Prince Mahasatwo's selfless sacrifice to feed a starving tigress and her cubs is commemorated by the stupa at Namo Buddha. The Thrangu Tashi Yangtse Temple, opened in 2008, marks the monastery's growth, while the Shree Mangal Dvip Branch School nurtures young monks. This monastery, with its rich history and architectural landmarks, remains a revered symbol of Tibetan Buddhist heritage.",
+    "title": "monastery"
+  },
+  {
+    "id": 7,
+    "name": "Amitabha Monastery",
+    "address": "P7F6+XVJ, Nagarjun 44600",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/AmitabhMonastery.jpg",
+    "latitude": " 27.57124457883932",
+    "longitude": " 85.58254456517517",
+    "description": "Perched atop Druk Amitabha Mountain with a commanding view of Kathmandu Valley, the Amitabha Monastery serves as a hub for spiritual practice and humanitarian endeavors. Boasting facilities such as a 2,000-seat hall, a library, the Drukpa Lineage's administrative office, a nunnery, and accommodations for 300 nuns, the monastery is a multifaceted center. It also houses a medical clinic and stands as a sanctuary for animals rescued from butchering, complemented by vegetable gardens catering to the center's sustenance. Beyond its spiritual significance, the hiking trails surrounding the monastery contribute to its allure, enhancing the overall experience for visitors.",
+    "title": "monastery"
+  },
+  {
+    "id": 8,
+    "name": "Shechen Tennyi Dargyeling Monastery",
+    "address": "Tushal-Mahankal Rd, Kathmandu 44600",
+    "image": "https://shechen.org/wp/wp-content/themes/deadwood-lite/images/headers/monnepal.jpg",
+    "latitude": " 27.723706327653368",
+    "longitude": "85.36074948332792",
+    "description": "Shechen Monastery, once a prominent Nyingma institution in Tibet, was destroyed in the late 1950s. In exile, Dilgo Khyentse Rinpoche transplanted its traditions to Nepal, establishing Shechen Tennyi Dargyeling Monastery near Bodhnath. Built from 1980 onwards, the monastery, envisioned as a guardian of its predecessor's legacy, showcased Tibetan artistry. Unfortunately, the main temple, featuring intricate frescoes, was destroyed in the 2015 earthquakes. Still, the monastery houses over one hundred and fifty statues and hosts one of the largest Tibetan libraries in the East, embodying Dilgo Khyentse Rinpoche's commitment to preserving spiritual and cultural heritage.",
+    "title": "monastery"
+  },
+  {
+    "id": 9,
+    "name": "Dhagpo Sheydrub Ling Monastery or Nala gumba",
+    "address": "Bhaktapur Nala Rd, Tukucha Nala",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipNZI-jc_wa8PnHaG6__Z4AtHOs6l2lD6Fvgy8Cl=s1360-w1360-h1020",
+    "latitude": " 27.662213870521946",
+    "longitude": "85.49450492335752",
+    "description": "Dhagpo Sheydrub Ling Monastery is located on Nala, Banepa, Kavre,about 1300m from Karunamaya Temple North-West & can be reach from Bhaktapur also.It also focus on giving education for Buddhist children.It is built on the top of the hill.We can also find different art and sculpture inside the gumba.",
+    "title": "monastery"
+  },
+  {
+    "id": 10,
+    "name": "Pashupatinath Temple",
+    "address": "Pashupati Nath Road, Kathmandu, Nepal",
+    "latitude": " 27.710524184139707",
+    "longitude": "85.34882779875322",
+    "description": "Pashupatinath Temple is one of the most sacred Hindu temples dedicated to Lord Shiva. It is located on the banks of the Bagmati River in the Kathmandu Valley.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pashupatinath_Temple-2020.jpg/1200px-Pashupatinath_Temple-2020.jpg",
+    "title": "temple"
+  },
+  {
+    "id": 11,
+    "name": "Swayambhunath Stupa (Monkey Temple)",
+    "address": "Swayambhu, Kathmandu, Nepal",
+    "latitude": " 27.71487812640217",
+    "longitude": "85.29039643486018",
+    "description": "Swayambhunath Stupa, also known as the Monkey Temple, is an ancient religious complex atop a hill in the Kathmandu Valley. It is a UNESCO World Heritage Site.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Swayambhunath_temple_-_an_ancient_religious_architecture_of_Nepal.jpg/1200px-Swayambhunath_temple_-_an_ancient_religious_architecture_of_Nepal.jpg",
+    "title": "temple"
+  },
+  {
+    "id": 12,
+    "name": "Boudhanath Stupa",
+    "address": "Boudha, Kathmandu, Nepal",
+    "latitude": "27.721508885941283",
+    "longitude": "85.36212066189044",
+    "description": "Boudhanath Stupa is one of the largest stupas in Nepal and a major pilgrimage site for Buddhists. It is known for its impressive dome and vibrant prayer flags.",
+    "image": "https://www.oyorooms.com/blog/wp-content/uploads/2019/06/Top-6-Buddhist-Stupas-to-Visit-in-India-Hero-image.jpg",
+    "title": "temple"
+  },
+  {
+    "id": 13,
+    "name": "Changu Narayan Temple",
+    "address": "Bhaktapur, Nepal",
+    "latitude": "27.716239050272325",
+    "longitude": "85.42779151131565",
+    "description": "Changu Narayan is an ancient Hindu temple, located on a high hilltop that is also known as Changu or Dolagiri in Changunarayan Municipality of Bhaktapur District, Nepal. This hill is about 7 miles (or 12 km) east of Kathmandu and a few miles north of Bhaktapur. The Manohara River flows beside the hill. The temple is considered to be one of the oldest temples in Nepal. The temple is dedicated to lord Vishnu and is held in special reverence by the Hindu people.The temple was surrounded by champak tree forest and a small village known as Changu. A Kashmiri king is said to have given his daughter, Champak, in marriage to the prince of Bhaktapur. The temple is considered to be named after her.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nepal_-_Changu_Narayan_%283566057331%29.jpg/330px-Nepal_-_Changu_Narayan_%283566057331%29.jpg",
+    "title": "temple"
+  },
+
+  {
+    "id": 14,
+    "name": "Nagarkot",
+    "address": "East of kathmandu, Bhaktapur",
+    "latitude": "27.71829322087812",
+    "longitude": "85.51813233866379",
+    "description": "Nagarkot, in Bhaktapur District, Nepal, is a former Village Development Committee turned Nagarkot Municipality in 2015. Positioned at 2,195 meters, it's renowned for breathtaking sunrise views of the Himalayas, including Mount Everest. Offering broad vistas of eight Himalayan ranges, it's a popular spot for nature lovers and outdoor enthusiasts. The area's historical significance as an ancient fort and its transformation into a royal summer retreat add to its charm. Nagarkot's accessibility, just 28 km from Kathmandu International Airport, makes it a favored destination for those seeking a serene getaway with stunning mountain panoramas.",
+    "image": "https://imgs.search.brave.com/UUZu4zr5TutdOu81A9_t0F3YJF_Yonvvi_uZPp8O4rE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hdWRsZXl0cmF2/ZWwuY29tLy0vbWVk/aWEvaW1hZ2VzL2hv/bWUvaW5kaWFuLXN1/YmNvbnRpbmVudC9u/ZXBhbC9wbGFjZXMv/NTMwMzA3MTg3X25h/Z2Fya290XzMwMDB4/MTAwMC5qcGc_cT03/OSZ3PTE5MjAmaD02/NDA",
+    "title": "adventure"
+  },
+  {
+    "id": 15,
+    "name": "Dhulikhel",
+    "address": "Kavrepalanchok District, Dhulikhel",
+    "latitude": "27.625273058322694",
+    "longitude": "85.55651158625905",
+    "description": "Dhulikhel is a town in Kavrepalanchok District, Bagmati Province, Nepal. Nestled in the foothills of the Himalayas, it is known for its panoramic views of the mountains, including the Langtang range. Dhulikhel has historical and cultural significance, with temples and ancient architecture, making it a popular destination for tourists seeking both natural beauty and cultural exploration. The town also serves as a hub for various trekking routes in the region.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Dhulikhel1.png/450px-Dhulikhel1.png",
+    "title": "adventure"
+  },
+  {
+    "id": 16,
+    "name": "Chandragiri Hill",
+    "address": "Thankot Kathmandu",
+    "latitude": "27.689190340081968",
+    "longitude": "85.22247075869436",
+    "description": "Chandragiri Hill is a prominent destination in the Kathmandu Valley of Nepal, known for its picturesque landscapes and cultural significance. Situated southwest of Kathmandu, it offers panoramic views of the Himalayas, including the Langtang range and Mount Everest. The hill is home to the Chandragiri Cable Car, providing easy access to the hill station. Atop Chandragiri, visitors can explore the Bhaleshwor Mahadev Temple, a revered Hindu shrine. The area combines natural beauty with religious and recreational elements, making it a popular destination for both locals and tourists.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Panorama_view_of_Kathmandu.jpg/600px-Panorama_view_of_Kathmandu.jpg",
+    "title": "adventure"
+  },
+  {
+    "id": 17,
+    "name": "Pulchowki",
+    "address": "Lalitpur, Nepal",
+    "latitude": "27.571873620454735",
+    "longitude": "85.40561067669663",
+    "description": "Phulchowki, Nepal's highest point in the Kathmandu Valley at 2,765 meters, is a captivating destination known for its natural beauty. The 18 km hiking trail, starting in Godavari, provides a challenging yet rewarding experience with views of Everest and other Himalayan ranges. Renowned for diverse rhododendron species, it's aptly named the \"Hill of Flowers.\" Best visited in spring and autumn, the summit offers stunning Himalayan views, while monsoon months are discouraged due to slippery trails. Accessible through Godavari, private transportation is recommended for this picturesque and culturally rich spot.",
+    "image": "https://www.landnepal.com/wp-content/uploads/2021/09/Phulchoki.jpg",
+    "title": "adventure"
+  },
+  {
+    "id": 18,
+    "name": "Garden of Dreams",
+    "address": "Tridevi Sadak, Kathmandu",
+    "latitude": " 27.714132526545978",
+    "longitude": "85.3145089071995",
+    "description": "The Garden of Dreams in Kathmandu, Nepal, is a historic neo-classical garden built in 1920. Originally the private garden of Field Marshal Kaiser Sumsher Rana, it fell into neglect but was restored in 2000 with Austrian government support. Open to the public, the garden features neo-classical pavilions, fountains, and cultural events. It serves as a tranquil oasis in the heart of Kathmandu, showcasing Nepal's architectural and cultural heritage.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Garden_of_Dreams.jpg/375px-Garden_of_Dreams.jpg",
+    "title": "park"
+  },
+  {
+    "id": 19,
+    "name": "Shivapuri National Park",
+    "address": "Shivapuri National Park, Kathmandu",
+    "latitude": "27.813340732587235",
+    "longitude": "85.38629878041198",
+    "description": "Shivapuri Nagarjun National Park in Nepal is a protected area near Kathmandu. Established in 2002, it encompasses the Shivapuri and Nagarjun hills. Known for its diverse flora and fauna, the park offers hiking trails, wildlife, and panoramic views of the Kathmandu Valley. A popular destination for nature lovers and hikers, it serves as a green retreat in close proximity to the capital city.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/A_view_of_Shivapuri_national_park_from_Sundarijal.jpg/426px-A_view_of_Shivapuri_national_park_from_Sundarijal.jpg",
+    "title": "park"
+  },
+  {
+    "id": 20,
+    "name": "Godawari Botanical Garden",
+    "address": "Satdobato, Godavari",
+    "latitude": "27.596576144679652",
+    "longitude": "85.38336573644419",
+    "description": "Godawari Botanical Garden in Lalitpur, Nepal, is a lush haven at the southeast edge of the Kathmandu Valley. Also known as the National Botanical Garden, it was established in 1962, covering 82 hectares at the foothill of Mt. Phulchowki. Designed by British architects, it boasts thematic gardens, including a physic garden, rock garden, and Japanese style garden. The garden is home to around 1,000 plant species, including orchids, ferns, and gymnosperms. Notable for its bird and butterfly diversity, it opens daily, offering visitors a serene escape into nature and biodiversity.",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/b2/aa/7e/caption.jpg?w=1400&h=-1&s=1",
+    "title": "park"
+  },
+  {
+    "id": 21,
+    "name": "Central Zoo",
+    "address": "Jawalakhel, Lalitpur",
+    "latitude": "27.672922438829154",
+    "longitude": " 85.31223691989923",
+    "description": "The Central Zoo in Jawalakhel, Lalitpur, Nepal, is the country's only zoo, established in 1956. Spread over 6 hectares, it houses a diverse collection of wildlife, including endangered species. The zoo plays a crucial role in conservation and education, providing visitors with a glimpse of Nepal's rich biodiversity. With a focus on research and breeding programs, it serves as a hub for wildlife enthusiasts and students alike.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Red_Panda_in_Central_Zoo.jpg/330px-Red_Panda_in_Central_Zoo.jpg",
+    "title": "park"
+  },
+  {
+    "id": 22,
+    "name": "Ratnapar",
+    "address": "Ratnapark, Kathmandu",
+    "latitude": " 27.70626806963469",
+    "longitude": " 85.31502885582177",
+    "description": "Ratna Park in Kathmandu, Nepal, is a historic urban park established in 1920. Spread over 28 acres, it features greenery, ponds, and a central pavilion. Originally named after Queen Ratna, it is a popular spot for locals and tourists seeking relaxation. The park has undergone renovations and is a prominent recreational space in the heart of the city.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ratnapark_kathmandu.jpg/407px-Ratnapark_kathmandu.jpg",
+    "title": "park"
+  },
+  {
+    "id": 23,
+    "name": "Tribhuvan Park",
+    "address": "Tribhuvan highway, Chandragiri",
+    "latitude": " 27.690125001975066",
+    "longitude": "85.2209750171921",
+    "description": "Tribhuwan park is picnic spot. Which is situated at thankot of kathmandu . it is about 15 minutes drive towards west from kalanki . this park lies by the highway which makes easy access to those who want to enjoy their free time visiting the park and going there for picnic.",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/e7/df/13/getlstd-property-photo.jpg?w=1100&h=500&s=1",
+    "title": "park"
+  },
+  {
+    "id": 24,
+    "name": "Balaju Garden",
+    "address": "Balaju, Kathmandu",
+    "latitude": " 27.734045922014758",
+    "longitude": "85.3012233153426",
+    "description": "Balaju Garden, situated 5 kilometers northwest of Kathmandu, Nepal, is a serene retreat with a mix of natural and artificial beauty. Established in the mid-18th century, it features 22 intricately crafted stone water spouts known as \"Baisdhara.\" The garden houses a replica of Budhanilkantha, attracting devotional tourists. Other attractions include a well-decorated garden with flowerbeds and ponds, an Olympic-sized swimming pool, and a one-day religious fair. However, the garden faces challenges such as drying ponds and a decline in water levels, impacting aquatic life. Despite its historical significance, Balaju Garden grapples with issues like urbanization and water scarcity, highlighting the need for conservation efforts.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc315Hk3ICoGvIu6Gh-Zb40oq7idC633Zt7bMjUyEc4w&s",
+    "title": "park"
+  },
+  {
+    "id": 25,
+    "name": "New Road",
+    "address": "New Road, Kathmandu",
+    "latitude": " 27.70341593840818",
+    "longitude": "85.31312835410321",
+    "description": "New Road, situated in Kathmandu, Nepal, is a bustling commercial and historical street known for its vibrant market and diverse shops. Originally constructed during the rule of Prime Minister Bhimsen Thapa, it has evolved into a major shopping district, offering a wide array of goods and services. Lined with traditional and modern stores, New Road is a popular destination for locals and tourists alike, reflecting the dynamic blend of heritage and commerce in the heart of Kathmandu.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/%E0%A4%A8%E0%A5%8D%E0%A4%B9%E0%A5%81%E0%A4%B8%E0%A4%A4%E0%A4%95.JPG/330px-%E0%A4%A8%E0%A5%8D%E0%A4%B9%E0%A5%81%E0%A4%B8%E0%A4%A4%E0%A4%95.JPG",
+    "title": "local"
+  },
+  {
+    "id": 26,
+    "name": "Thamel",
+    "address": "Thamel, Kathmandu",
+    "latitude": "27.715928969507402",
+    "longitude": "85.3124119897224",
+    "description": "Thamel is a popular tourist neighborhood in Kathmandu, Nepal, known for its vibrant atmosphere and diverse offerings. Renowned for its bustling streets, Thamel is a hub for hotels, restaurants, shops, and cultural experiences. Visitors can explore the area's diverse cuisine, find unique handicrafts, and immerse themselves in the lively street life. Additionally, Thamel serves as a gateway to Nepal's trekking and adventure tourism, making it a must-visit destination for travelers seeking a blend of urban excitement and cultural exploration.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Thamel_at_night_-_Kathmandu%2C_Nepal_-_panoramio_%281%29.jpg/375px-Thamel_at_night_-_Kathmandu%2C_Nepal_-_panoramio_%281%29.jpg",
+    "title": "local"
+  },
+  {
+    "id": 27,
+    "name": "Dasharath Rangasala",
+    "address": "Tripureshwor, Kathmandu",
+    "latitude": "27.69521949497729",
+    "longitude": "85.31523669575458",
+    "description": "Dasharath Rangasala is a multi-purpose stadium located in Kathmandu, Nepal. Primarily used for football matches, it is a prominent sports venue in the region. The stadium has witnessed various national and international sporting events, contributing to Nepal's sports culture. With a capacity to host a large audience, Dasharath Rangasala stands as a key venue for sports enthusiasts and cultural gatherings in Kathmandu.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dasarath_Stadium_during_2022_SAFF_Women%27s_Championship_Final_match.jpg/375px-Dasarath_Stadium_during_2022_SAFF_Women%27s_Championship_Final_match.jpg",
+    "title": "local"
+  },
+  {
+    "id": 28,
+    "name": "Indra Chowk",
+    "address": "Indra Chowk, Kathmandu",
+    "latitude": "27.70635836223893",
+    "longitude": "85.30933816216772",
+    "description": "Indra Chowk, located in the heart of Kathmandu, Nepal, is a historic square known for its vibrant atmosphere and cultural significance. Surrounded by traditional architecture, the square hosts a diverse range of markets, including the popular Maru Bazaar. The central pillar, an ancient water spout, and the iconic Akash Bhairab Temple contribute to the area's rich heritage. Indra Chowk serves as a bustling hub where locals and visitors come together, offering a lively blend of commerce and cultural experiences.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wangah_square.jpg/300px-Wangah_square.jpg",
+    "title": "local"
+  },
+  {
+    "id": 29,
+    "name": "Dharahara",
+    "address": "Sundhara, Kathmandu",
+    "latitude": "27.70052006694602",
+    "longitude": "85.31237540781297",
+    "description": "Dharahara, a historic tower in Kathmandu, Nepal, is a symbol of resilience and reconstruction. Originally built in the 19th century, it collapsed during the 2015 earthquake but has since been reconstructed. Rising tall in the city center, Dharahara provides panoramic views of Kathmandu Valley from its observation deck. The tower stands as a testament to Nepal's architectural heritage and the enduring spirit of its people.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/DHARAHARA_TOWER.jpg/375px-DHARAHARA_TOWER.jpg",
+    "title": "local"
+  }
+]
